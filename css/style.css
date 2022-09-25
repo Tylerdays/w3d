@@ -5,6 +5,7 @@ html{
 }
 #logo{
     height: 75px;
+    margin-top: 10px;
 }
 h1{
     font-size: 30;
@@ -13,3 +14,7 @@ h1{
 article>img{
     height: 75px;
 }
+nav{
+    font-size: 40px;
+}
+
